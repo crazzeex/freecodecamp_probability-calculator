@@ -37,3 +37,4 @@ probability = experiment(hat=hat,
                   num_balls_drawn=5,
                   num_experiments=2000)
 ```                  
+Since this is based on random draws, the probability will be slightly different each time the code is run.
